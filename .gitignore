@@ -1,0 +1,8 @@
+.idea/
+Dockerfile
+docker-compose.yml
+main.go
+readme.md
+test-client
+client/
+
