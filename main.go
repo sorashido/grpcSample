@@ -6,7 +6,7 @@ import (
     "github.com/garyburd/redigo/redis"
     "golang.org/x/net/context"
     "google.golang.org/grpc"
-    pb "github.com/sorashido/mercari/api"
+    pb "github.com/sorashido/grpcSample/api"
     "net"
     "fmt"
     "strings"
